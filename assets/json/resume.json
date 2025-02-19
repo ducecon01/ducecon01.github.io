@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Manh-Duc Doan",
-    "label": "Research Assistant at Development and Policies Research Center (DEPOCEN)",
+    "label": "Economics, Data",
     "image": "",
     "email": "ducdm.econ@gmail.com",
     "phone": "(+84) 916 770 405",
@@ -16,8 +16,8 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "ManhDucDoan01",
+        "url": "https://x.com/ManhDucDoan01"
       }
     ]
   },
@@ -28,8 +28,8 @@
       "url": "https://depocen.org/en/",
       "startDate": "2024-07-01",
       "endDate": "2026-07-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Contributed to writing proposals to provide consulting services for M&E projects, research, and large-scale survey services for NGOs (World Bank, UN, ADB, etc.) and government agencies in Vietnam. Designed, programmed, and implemented multidisciplinary and large-scale surveys, conducted data analysis, and wrote reports",
+      "highlights": ["Consulting services, research, large-scale survey"]
     }
   ],
   "volunteer": [
@@ -46,15 +46,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Foreign Trade University",
+      "location": "Hanoi, Vietnam",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Economics (majoring in International Economics)",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2025",
+      "endDate": "2021",
+      "score": "3.77/4.0",
+      "courses": ["Advanced Mathematics; Probability and Statistics, Microeconomics I & II, Macroeconomics I & II, Econometrics I & II, International Economics I & II, Industrial Organization"]
     }
   ],
   "awards": [
