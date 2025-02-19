@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ducecon01.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://ducecon01.github.io/sitemap.xml
