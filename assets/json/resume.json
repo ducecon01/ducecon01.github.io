@@ -28,20 +28,8 @@
       "url": "https://depocen.org/en/",
       "startDate": "2024-07-01",
       "endDate": "2026-07-01",
-      "summary": "Contributed to writing proposals to provide consulting services for M&E projects, research, and large-scale survey services for NGOs (World Bank, UN, ADB, etc.) and government agencies in Vietnam. Designed, programmed, and implemented multidisciplinary and large-scale surveys, conducted data analysis, and wrote reports",
+      "summary": "Contributed to writing proposals to provide consulting services for M&E projects, research, and large-scale survey services for NGOs (World Bank, UN, ADB, etc.) and government agencies in Vietnam.",
       "highlights": ["Consulting services, research, large-scale survey"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -53,8 +41,7 @@
       "studyType": "PhD",
       "startDate": "2025",
       "endDate": "2021",
-      "score": "3.77/4.0",
-      "courses": ["Advanced Mathematics; Probability and Statistics, Microeconomics I & II, Macroeconomics I & II, Econometrics I & II, International Economics I & II, Industrial Organization"]
+      "gpa": "3.77/4.0",
     }
   ],
   "awards": [
